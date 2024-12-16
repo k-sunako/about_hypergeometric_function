@@ -1,0 +1,25 @@
+#+LaTeX_CLASS: koma-jarticle
+
+#+STARTUP:  overview
+#+STARTUP:  hidestars
+#+OPTIONS:  H:4 num:nil toc:nil \n:nil @:t ::t |:t ^:nil -:t f:t *:t TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+LINK_UP:
+#+LINK_HOME:
+
+#+cite_export: csl ~/repos/styles/chicago-author-date.csl
+#+BIBLIOGRAPHY: /home/snowfox/myspace/Bibliography/references.bib
+
+#+TITLE: 超幾何関数の計算について
+#+AUTHOR: k-sunako
+#+DATE: [2024-12-16 月 19:25]
+
+* 概要
+[[https://docs.scipy.org/doc/scipy/reference/generated/scipy.special.hyp2f1.html][scipy.special.hyp2f1 — SciPy v1.14.1 Manual]] や [[https://arxiv.org/abs/1306.2046][New Series Expansions
+of the Gauss Hypergeometric Function | Abstract]] を参考に超幾何関数の計
+算を調べる。
+
+
+
+
+
+
